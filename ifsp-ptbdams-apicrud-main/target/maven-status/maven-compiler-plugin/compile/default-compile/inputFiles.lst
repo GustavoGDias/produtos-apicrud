@@ -1,0 +1,10 @@
+C:\Users\Gustavo\Desktop\Gustavo\Script\ifsp-ptbdams-apicrud-main\src\main\java\com\ptbdams\apicrud\ApiCrudApplication.java
+C:\Users\Gustavo\Desktop\Gustavo\Script\ifsp-ptbdams-apicrud-main\src\main\java\com\ptbdams\apicrud\controller\CategoriaController.java
+C:\Users\Gustavo\Desktop\Gustavo\Script\ifsp-ptbdams-apicrud-main\src\main\java\com\ptbdams\apicrud\controller\ProdutoController.java
+C:\Users\Gustavo\Desktop\Gustavo\Script\ifsp-ptbdams-apicrud-main\src\main\java\com\ptbdams\apicrud\exception\GlobalExceptionHandler.java
+C:\Users\Gustavo\Desktop\Gustavo\Script\ifsp-ptbdams-apicrud-main\src\main\java\com\ptbdams\apicrud\exception\RecursoNaoEncontradoException.java
+C:\Users\Gustavo\Desktop\Gustavo\Script\ifsp-ptbdams-apicrud-main\src\main\java\com\ptbdams\apicrud\model\Categoria.java
+C:\Users\Gustavo\Desktop\Gustavo\Script\ifsp-ptbdams-apicrud-main\src\main\java\com\ptbdams\apicrud\model\Produto.java
+C:\Users\Gustavo\Desktop\Gustavo\Script\ifsp-ptbdams-apicrud-main\src\main\java\com\ptbdams\apicrud\repository\CategoriaRepository.java
+C:\Users\Gustavo\Desktop\Gustavo\Script\ifsp-ptbdams-apicrud-main\src\main\java\com\ptbdams\apicrud\repository\ProdutoRepository.java
+C:\Users\Gustavo\Desktop\Gustavo\Script\ifsp-ptbdams-apicrud-main\src\main\java\com\ptbdams\apicrud\service\ProdutoService.java
