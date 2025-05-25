@@ -36,7 +36,7 @@ Cada camada tem responsabilidades bem definidas:
 - `PUT /produtos/{id}`:
 ![img2.png](img/img2.png)
 - `DELETE /produtos/{id}`:
-![img10ng](img/img10ng)
+![img10.png](img/img10.png)
 
 - `GET /categorias`:
 ![img5.png](img/img5.png)
