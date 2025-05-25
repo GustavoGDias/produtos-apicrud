@@ -48,9 +48,9 @@ Cada camada tem responsabilidades bem definidas:
 
 ## Regras de negócio
 - Nome do produto é obrigatório (entre 2 e 100 caracteres).
--Preço máximo permitido: R$10.000,00.
--Produto com "Promoção" no nome deve custar menos de R$500,00.
--Não é permitido cadastrar dois produtos com o mesmo nome (case-insensitive).
--Cálculo de desconto limitado a 50% do valor do produto.
--Produto deve estar vinculado a uma categoria existente
+- Preço máximo permitido: R$10.000,00.
+- Produto com "Promoção" no nome deve custar menos de R$500,00.
+- Não é permitido cadastrar dois produtos com o mesmo nome (case-insensitive).
+- Cálculo de desconto limitado a 50% do valor do produto.
+- Produto deve estar vinculado a uma categoria existente
 
